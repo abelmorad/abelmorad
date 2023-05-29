@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sharhabeel Morad</h1>
-<h3 align="center">A self-taught front-end developer who is highly motivated and driven by a strong desire for success. I am constantly pushing myself to learn new skills.</h3>
+<h3 align="left">A self-taught front-end developer who is highly motivated and driven by a strong desire for success. I am constantly pushing myself to learn new skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abelmorad&label=Profile%20views&color=0e75b6&style=flat" alt="abelmorad" /> </p>
 
