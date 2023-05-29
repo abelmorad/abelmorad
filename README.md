@@ -28,6 +28,8 @@
 <a href="https://linkedin.com/in/sharhabeel-morad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharhabeel-morad" height="30" width="40" /></a>
 </p>
 
+<br/>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abelmorad&show_icons=true&locale=en&layout=compact" alt="abelmorad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abelmorad&show_icons=true&locale=en" alt="abelmorad" /></p>
