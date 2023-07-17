@@ -31,7 +31,6 @@
 # <h3>My Stats:</h3>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abelmorad&show_icons&theme=midnight-purple)](https://github.com/abelmorad/github-readme-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abelmorad&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=abelmorad&show_icons=true&theme=midnight-purple)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abelmorad&theme=midnight-purple&hide_border=false)
 
 
