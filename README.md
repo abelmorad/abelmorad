@@ -29,9 +29,10 @@
 </p>
 
 # <h3>My Stats:</h3>
-![](https://github-readme-stats.vercel.app/api?username=abelmorad&show_icons=true&theme=midnight-purple)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abelmorad)](https://github.com/abelmorad/github-readme-stats)<br/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abelmorad)](https://github.com/abelmorad/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=abelmorad&show_icons=true&theme=midnight-purple)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abelmorad&theme=midnight-purple&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abelmorad&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=abelmorad&theme=midnight-purple&hide_border=false)<br/>
+
 
 
