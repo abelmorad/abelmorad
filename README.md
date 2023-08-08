@@ -13,13 +13,9 @@
 
 - 🤝 I’m looking for help with my career as a front-end developer
 
-- 🌱 I’m currently learning front-end development technologies
-
-- 👨‍💻 All of my projects are available at [https://abelmorad.github.io/](https://abelmorad.github.io/)
+- 👨‍💻 All of my projects are available at [https://abel-morad.vercel.app/](https://abel-morad.vercel.app/)
 
 - 📫 How to reach me **abelmorad97@gmail.com**
-
-- 📄 Know about my experiences [https://abelmorad.github.io/document/SharhabeelMoradResume.pdf](https://abelmorad.github.io/document/SharhabeelMoradResume.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
